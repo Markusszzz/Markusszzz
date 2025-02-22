@@ -2,8 +2,6 @@
 
 - 🔭 Formado em Técnico de Análise e Desenvolvimento de Sistemas na Etec de Guaianazes
 - 👨🏿‍💻Cursando superior em ADS na Unicsul
-- 🌱 I’m currently learning  Linguagens de Programação
-- 🤔 Cursando Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 <div align="center">
