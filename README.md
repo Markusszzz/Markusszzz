@@ -1,30 +1,78 @@
-### Oi né , eu sou o Marcus Vínicius! 👋
+# 👋 Olá, eu sou Marcus Vinícius
 
-- 🔭 Formado em Técnico de Análise e Desenvolvimento de Sistemas na Etec de Guaianazes
-- 👨🏿‍💻Cursando superior em ADS na Unicsul
-- 😄 Pronouns: ele/dele
+🎯 Focado em **Análise de Dados | SQL | Tecnologia da Informação**
+📍 São Paulo - SP
+📚 Técnico em Análise e Desenvolvimento de Sistemas (ETEC)
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas (UNICSUL)**
 
-<div align="center">
-  <a href="https://github.com/Markusszzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markusszzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markusszzz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-</div>
- 
- ##
- 
- <div>
-   <a href="https://www.instagram.com/markuszp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:marcusdossantos72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/markusszzzzzz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
- </div>
-  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e estou em constante evolução na área de dados.
+Tenho experiência com **SQL, Python e análise de dados**, além de vivência profissional com banco de dados, suporte técnico e liderança de equipe.
+
+---
+
+## 🧠 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 **Análise de Vendas com SQL**
+
+> Consultas com JOIN, GROUP BY e análise de faturamento
+
+🔹 **Limpeza e Tratamento de Dados (Python)**
+
+> Manipulação e organização de dados
+
+🔹 **Dashboard de Dados (Power BI)** *(em construção)*
+
+> Visualização de métricas e indicadores
+
+---
+
+## 💼 Experiência
+
+📍 **Estágio em TI - Digital Point (2023)**
+
+* Correção e manutenção de banco de dados
+* Suporte técnico
+
+📍 **Líder Operacional - Attitude Gestão Financeira (Atual)**
+
+* Liderança de equipe e acompanhamento de desempenho
+* Análise de resultados e indicadores
+* Apoio na tomada de decisões estratégicas
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Contato
+
+📧 Email: [marcusdossantos72@gmail.com](mailto:marcusdossantos72@gmail.com)
+📱 Telefone: (11) 98374-4186
+
+---
+
+⭐ Se curtir meu perfil, não esquece de dar uma olhada nos meus projetos!
