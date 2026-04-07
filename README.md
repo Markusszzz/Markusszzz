@@ -71,7 +71,7 @@ Tenho experiência com **SQL, Python e análise de dados**, além de vivência p
 ## 📬 Contato
 
 📧 Email: [marcusdossantos72@gmail.com](mailto:marcusdossantos72@gmail.com)
-📱 Telefone: (11) 98374-4186
+📱 Telefone: (11) 95328-2304
 
 ---
 
